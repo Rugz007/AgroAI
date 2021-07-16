@@ -1,4 +1,6 @@
 # AgroAI
+[![CodeFactor](https://www.codefactor.io/repository/github/rugz007/agroai/badge)](https://www.codefactor.io/repository/github/rugz007/agroai)
+
 The project is a web app intended to help farmers with different variations of models.
 This project uses Django w/ Django REST Framework for the back-end and ReactJS for the front-end.
 
